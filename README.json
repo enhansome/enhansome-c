@@ -1,19 +1,9 @@
 {
-  "items": [
-    {
-      "description": "Resources for learning C programming in general, or something useful relating to C programming.",
-      "items": [],
-      "title": "Learning, Reference and Tutorials"
-    },
-    {
-      "description": "This includes libraries for things like XML, JSON, CSV, and other similar formats.",
-      "items": [],
-      "title": "Structured File Processing"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T01:27:29.483Z",
+    "last_updated": "2026-08-19T12:18:02.810Z",
     "original_repository": "oz123/awesome-c",
+    "original_repository_id": 28008600,
     "original_repository_sha": "b0ee2cfbc085a5eec84fe41efd2b1576c5f59887",
     "enhanced_repository": "enhansome/enhansome-c",
     "enhanced_repository_description": null,
