@@ -1,7 +1,7 @@
 {
   "items": [],
   "metadata": {
-    "last_updated": "2026-09-06T03:50:31.420Z",
+    "last_updated": "2026-09-07T03:49:23.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.",
@@ -10,10 +10,10 @@
       "language": null,
       "license": "CC-BY-SA-4.0",
       "last_commit": "2025-12-27T08:35:04Z",
-      "open_issues": 101,
+      "open_issues": 102,
       "owner": "oz123",
       "repo": "awesome-c",
-      "stars": 11536,
+      "stars": 11539,
       "topics": [
         "awesome",
         "awesome-list",
